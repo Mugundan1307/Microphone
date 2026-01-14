@@ -2,9 +2,9 @@
 
 Final 6-Pin Wiring Summary:
 
-|RPiZero2W||:Pin:||:Purpose:|
+|RPiZero2W|        |Pin |                                    |Purpose|
 
-|:VCC:||:Pin 1 (3.3V)	                         |:  Power
+|VCC|              |Pin 1 (3.3V)|	                            |Power|
 |:GND:|            |:Pin 6 (GND)	                       |:Common Ground
 |:L/R:|            |:Pin 9 or 14 (GND)	    |:Sets to Left Channel (Required for single mic)
 |:SCK:|            |:Pin 12 (GPIO 18)	                  |: Serial Clock
